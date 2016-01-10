@@ -1,4 +1,4 @@
-package kata7;
+package Mykata7;
 
 import java.awt.BorderLayout;
 import java.awt.Component;
@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import javax.swing.JFrame;
 import kata7.view.HistogramDisplay;
-import kata7.application.swing.HistogramPanel;
+import MyKata7.application.swing.HistogramPanel;
 import kata7.application.swing.Toolbar;
 import kata7.control.CalculateCommand;
 import kata7.control.Command;
